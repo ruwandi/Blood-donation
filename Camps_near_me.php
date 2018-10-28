@@ -26,9 +26,9 @@
    <label><b>District</b></label>
    <select>
      <option selected>choose District</option>
-     <option value="1">one</option>
-     <option value="2">two</option>
-     <option value="3">three</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
    </select>
  </p>  
  
